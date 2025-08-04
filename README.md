@@ -1,0 +1,1 @@
+This repo contains an automated build of the Podsync server based on [the official Docker image](https://hub.docker.com/r/mxpv/podsync/tags). It updates [`yt-dlp`](https://github.com/yt-dlp/yt-dlp) to the latest version.
