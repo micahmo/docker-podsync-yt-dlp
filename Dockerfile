@@ -1,2 +1,2 @@
-FROM ghcr.io/mxpv/podsync:latest:latest
+FROM ghcr.io/mxpv/podsync:latest
 RUN yt-dlp --update
